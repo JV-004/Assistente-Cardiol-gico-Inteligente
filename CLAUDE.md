@@ -12,18 +12,7 @@ Projeto acadêmico da FIAP: **Assistente Cardiológico Inteligente**.
 
 ## Estado atual
 
-O repositório está **vazio** — nenhum código, dependência ou configuração foi commitada ainda. As seções abaixo devem ser preenchidas assim que a stack for definida; não presuma linguagem, framework ou layout de pastas antes disso.
-
-## Setup inicial do git (ainda não executado localmente)
-
-```bash
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/JV-004/Assistente-Cardiol-gico-Inteligente.git
-git push -u origin main
-```
+Repositório local inicializado e sincronizado com `origin/main`. O conteúdo até agora é apenas `README.md` e este arquivo — **nenhum código, dependência ou configuração** foi adicionado. As seções abaixo devem ser preenchidas assim que a stack for definida; não presuma linguagem, framework ou layout de pastas antes disso.
 
 ## Comandos
 
