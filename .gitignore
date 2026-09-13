@@ -1,3 +1,9 @@
 # Arquivos de configuração de assistentes de IA
 AGENTS.md
 CLAUDE.md
+
+# Arquivos locais e Python
+backend/.env
+backend/__pycache__/
+backend/services/__pycache__/
+*.pyc
