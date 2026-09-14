@@ -1,1 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
 
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="CardioIA - Assistente Cardiológico Inteligente"
+    >
+
+    <title>CardioIA | Assistente Cardiológico</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="app">
+
+        <!-- Cabeçalho -->
+        <header class="header">
+
+            <div class="brand">
+
+                <div class="logo">
+                    ♥
+                </div>
+
+                <div class="brand-text">
+                    <h1>CardioIA</h1>
+
+                    <p>
+                        Assistente Cardiológico Inteligente
+                    </p>
+                </div>
+
+            </div>
+
+            <div class="status">
+                <span class="status-dot"></span>
+                Assistente online
+            </div>
+
+        </header>
+
+
+        <!-- Aviso médico -->
+        <section class="medical-warning">
+            <strong>Importante:</strong>
+            O CardioIA oferece orientações iniciais e não substitui
+            avaliação, diagnóstico ou atendimento realizado por
+            profissionais de saúde.
+        </section>
+
+
+        <!-- Área do chat -->
+        <section
+            id="chat"
+            class="chat"
+            aria-live="polite"
+        >
+
+            <!-- Mensagem inicial -->
+            <div class="message bot-message">
+
+                <div class="avatar bot-avatar">
+                    ♥
+                </div>
+
+                <div class="message-content">
+
+                    <span class="message-author">
+                        CardioIA
+                    </span>
+
+                    <div class="message-bubble">
+                        Olá! Sou o CardioIA, seu assistente cardiológico
+                        virtual. Como posso ajudar você hoje?
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- Indicador de processamento -->
+        <div
+            id="typingIndicator"
+            class="typing hidden"
+            aria-live="polite"
+        >
+            <span></span>
+            <span></span>
+            <span></span>
+
+            <p>CardioIA está analisando...</p>
+        </div>
+
+
+        <!-- Formulário -->
+        <form
+            id="chatForm"
+            class="chat-form"
+        >
+
+            <div class="input-wrapper">
+
+                <textarea
+                    id="messageInput"
+                    placeholder="Digite sua mensagem..."
+                    maxlength="1000"
+                    rows="1"
+                    aria-label="Mensagem para o CardioIA"
+                    required
+                ></textarea>
+
+                <button
+                    id="sendButton"
+                    type="submit"
+                    aria-label="Enviar mensagem"
+                >
+                    Enviar
+                </button>
+
+            </div>
+
+            <div class="input-info">
+
+                <span>
+                    Não compartilhe informações pessoais sensíveis.
+                </span>
+
+                <span id="characterCount">
+                    0 / 1000
+                </span>
+
+            </div>
+
+        </form>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
