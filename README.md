@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://www.fiap.com.br/">
-    <img src="https://github.com/JV-004/Assistente-Cardiol-gico-Inteligente/docs/images/logo-fiap.png" alt="FIAP" width="35%"/>
+    <img src="docs/images/logo-fiap.png" alt="FIAP" width="35%"/>
   </a>
 </p>
 
 
-<![CDATA[# 🫀 CardioIA — Assistente Cardiológico Inteligente
+# 🫀 CardioIA — Assistente Cardiológico Inteligente
 
 <div align="center">
 
@@ -480,4 +480,3 @@ O projeto foi dividido em **4 frentes de trabalho**, cada uma com um responsáve
 *Desenvolvido com 🫀 pela equipe CardioIA*
 
 </div>
-]]>
