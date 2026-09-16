@@ -460,7 +460,7 @@ O projeto foi dividido em **4 frentes de trabalho**, cada uma com um responsáve
 
 > *Vídeo de demonstração (até 3 minutos) mostrando o fluxo completo de interação.*
 >
-> 📹 [Link para o vídeo de demonstração](#) *(inserir link)*
+> 📹 https://youtu.be/XbJLIMTlqgI (#) *(inserir link)*
 
 ---
 
