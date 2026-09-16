@@ -443,9 +443,9 @@ O projeto foi dividido em **4 frentes de trabalho**, cada uma com um responsáve
 | Nome | RM | Papel — Sprint 3 |
 |---|---:|---|
 | João | RM565999 |1 - Modelagem Conversacional |
-| Tayná Esteves | RM562491 | 2 - Backend e Integração |
-| Endrew Alves | RM563646 | 3 - Interface e Experiência do Usuário |
-| Carlos Eduardo | RM566487 | 4 - Documentação & Video   |
+| Tayná Esteves | RM562491 | 2 - Backend & Integração |
+| Endrew Alves | RM563646 | 3 - Interface & Experiência do Usuário |
+| Carlos Eduardo | RM566487 | 4 - Documentação & Vídeo   |
 
 ### 👩‍🏫 Professores
 
