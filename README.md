@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.fiap.com.br/">
-    <img src="docs/images/logo-fiap.png" alt="FIAP" width="35%"/>
+    <img src="docs/images/logo-fiap.png" alt="FIAP" width="55%"/>
   </a>
 </p>
 
@@ -446,7 +446,7 @@ O projeto foi dividido em **4 frentes de trabalho**, cada uma com um responsáve
 | João | RM565999 |1 - Modelagem Conversacional |
 | Tayná Esteves | RM562491 | 2 - Backend e Integração |
 | Endrew Alves | RM563646 | 3 - Interface e Experiência do Usuário |
-| Carlos Eduardo | RM566487 | Video & Documentação |
+| Carlos Eduardo | RM566487 | 4 - Documentação & Video   |
 
 ### 👩‍🏫 Professores
 
