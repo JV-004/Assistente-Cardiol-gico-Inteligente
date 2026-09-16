@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.fiap.com.br/">
-    <img src="https://raw.githubusercontent.com/JV-004/Assistente-Cardiol-gico-Inteligente/main/docs/logo-fiap.png" alt="FIAP" width="55%"/>
+    <img src="https://raw.githubusercontent.com/JV-004/Assistente-Cardiol-gico-Inteligente/main/docs/logo-fiap.png" alt="FIAP" width="45%"/>
   </a>
 </p>
 
